@@ -10,7 +10,7 @@ export default function Home() {
             <h1 className="text-white text-[25px]">Jessica Randall</h1>
             <h1 className="text-[#C1D870] font-bold text-[14px]">London, United Kingdom</h1>
           </div>
-          <p className="text-[#aaaaaa] text-[14px]">"Front-end developer and avid reader."</p>
+          <p className="text-[#aaaaaa] text-[14px]">&quot;Front-end developer and avid reader.&quot;</p>
         </div>
         <div className="flex flex-col items-center gap-3 mt-5">
           <div className="text-white font-bold bg-[#333333] w-[274px] h-[41px] flex flex-col items-center justify-center rounded-md"><a href="https://github.com">GitHub</a></div>
