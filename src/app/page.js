@@ -5,7 +5,7 @@ export default function Home() {
     <div className="bg-[#141414] min-h-screen flex justify-center items-center">
       <div className="w-[346px] h-[552px] bg-[#1F1F1F] rounded-[20px]">
         <div className="flex flex-col items-center mt-9 gap-5">
-          <img src="avatar-jessica.jpeg" alt="jessica" className="rounded-full w-[82px] h-[82px]"></img>
+          <Image src="/avatar-jessica.jpeg" width={82} height={82} alt="jessica" className="rounded-full"></Image>
           <div className="flex flex-col items-center">
             <h1 className="text-white text-[25px]">Jessica Randall</h1>
             <h1 className="text-[#C1D870] font-bold text-[14px]">London, United Kingdom</h1>
